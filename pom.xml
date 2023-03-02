@@ -11,11 +11,8 @@
     <groupId>com.hui</groupId>
     <artifactId>jenkins_demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>jenkins_demo</name>
-    <description>jenkins_demo</description>
-
     <properties>
-        <java.version>17</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
